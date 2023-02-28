@@ -1,4 +1,6 @@
 # CS:GO Observer Custom HUD
+Run with cd: node index.js
+
 
 Based off a fork from [osztenkurden](https://github.com/osztenkurden)
 
